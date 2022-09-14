@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Benvenuti sul mio sito!</h1>
+    <h2>{{$firstname}} {{$lastname}}</h2>
 </body>
 </html>
